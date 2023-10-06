@@ -1,0 +1,7 @@
+### - first we have to create a file with .ts extention i.e typescript.
+
+### - Secondly, we have to compile the .ts using the "tsc" command.
+
+### - Then, after we compile the file we will get a .js file and then we can run the .js file using the "node" command.
+
+### - NEVER edit ".js" files because it is generated my the TSC. Only Edit ".ts" file.
